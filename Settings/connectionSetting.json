@@ -1,0 +1,22 @@
+{
+    
+    "checkOfflineInterval" : 5000000,
+    
+    "channelUrl" : "https://www.twitch.tv/mebabybot",
+    "headers" : {
+        "Client-ID" : "fc9g5vx67vel9jme7vd0kvfqueqrj5"
+    },
+
+    "opts" : {
+        "identity" : {
+            "username" : "mebabybot",
+            "password" : "oauth:8kg96thncq6vhle6mvp2r2lvisy6j8"
+        },
+        "channels" : [
+            "mebabybot"
+        ]
+
+
+    }
+
+}
